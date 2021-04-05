@@ -12,7 +12,7 @@ display:none;
 #tag-4{
   display: none;
 }
-#tag-5{
+div#wall .parent #tag-5.slick{
   display: none;
 }
 /*remove tag4-5-6-7*/
