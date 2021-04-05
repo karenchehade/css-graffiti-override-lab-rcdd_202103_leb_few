@@ -15,6 +15,9 @@ display:none;
 div#wall .parent #tag-5.slick{
   display: none;
 }
+div#wall div.parent div:last-child div#tag-6 {
+  display: none;
+}
 /*remove tag4-5-6-7*/
 div > div{
   display:none;
