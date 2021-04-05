@@ -12,6 +12,9 @@ display:none;
 #tag-4{
   display: none;
 }
+#tag-5{
+  display: none;
+}
 /*remove tag4-5-6-7*/
 div > div{
   display:none;
